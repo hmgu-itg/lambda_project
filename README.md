@@ -1,6 +1,6 @@
 # Summary
 
-This repository contains analysis code and results based on publicly available summary statistics data.
+This repository contains analysis code and results from the publication which is based on publicly available summary statistics data.
 
 ## Data Source
 
