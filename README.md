@@ -1,6 +1,6 @@
 # Summary
 
-This repository contains analysis code and results from the publication (https://doi.org/10.1002/gepi.70016) which is based on publicly available summary statistics data.
+This repository contains analysis code and results from the publication titled "Correcting for genomic inflation leads to loss of power in large-scale genome-wide association study meta-analysis" (https://doi.org/10.1002/gepi.70016). The study is based on publicly available summary statistics data.
 
 ## Data Source
 
