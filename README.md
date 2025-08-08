@@ -12,7 +12,8 @@ Please refer to the DIAGRAM Consortium’s website for detailed information on t
 
 ## Citation
 
-If you use this data or the analyses herein, please make sure to cite the original DIAGRAM publication(s) associated with the downloaded summary statistics.
+If you use this data or the analyses herein, please cite our publication as:
+Singh, A., Southam, L., Hatzikotoulas, K., Rayner, N.W., Suzuki, K., Taylor, H.J., Yin, X., Mandla, R., Huerta-Chagoya, A., Morris, A.P., Zeggini, E. and Bocher, O. (2025), Correcting for Genomic Inflation Leads to Loss of Power in Large-Scale Genome-Wide Association Study Meta-Analysis. Genetic Epidemiology, 49: e70016. https://doi.org/10.1002/gepi.70016
 
 ## Contact
 
